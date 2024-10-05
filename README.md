@@ -4,7 +4,6 @@
 
 </div>
 
-<hr>
 
 <br clear="both">
 
