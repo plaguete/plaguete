@@ -1,7 +1,6 @@
 <div style="box-sizing: border-box; display: flex; margin-bottom:20px; justify-content:space-between;">
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=&pause=1000&color=F7517F&width=435&lines=%F0%9F%91%8B+%23Tonga+soa!!!)](https://git.io/typing-svg)
-
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=&pause=1000&color=F7517F&random=true&width=470&height=80&lines=%F0%9F%91%8B+%23Tonga+soa!!!)](https://git.io/typing-svg)
 </div>
 
 
